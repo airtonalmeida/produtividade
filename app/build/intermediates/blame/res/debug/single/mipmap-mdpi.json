@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "C:\\Users\\PC\\Documents\\Arquivos Android\\Produtividade\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi\\info.png",
+        "source": "C:\\Users\\PC\\Documents\\Arquivos Android\\Produtividade\\app\\src\\main\\res\\mipmap-mdpi\\info.png"
+    },
+    {
+        "merged": "C:\\Users\\PC\\Documents\\Arquivos Android\\Produtividade\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi\\ajuda.png",
+        "source": "C:\\Users\\PC\\Documents\\Arquivos Android\\Produtividade\\app\\src\\main\\res\\mipmap-mdpi\\ajuda.png"
+    },
+    {
+        "merged": "C:\\Users\\PC\\Documents\\Arquivos Android\\Produtividade\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi\\ic_launcher.png",
+        "source": "C:\\Users\\PC\\Documents\\Arquivos Android\\Produtividade\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\PC\\Documents\\Arquivos Android\\Produtividade\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi\\listar.png",
+        "source": "C:\\Users\\PC\\Documents\\Arquivos Android\\Produtividade\\app\\src\\main\\res\\mipmap-mdpi\\listar.png"
+    },
+    {
+        "merged": "C:\\Users\\PC\\Documents\\Arquivos Android\\Produtividade\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi\\cadastrar.png",
+        "source": "C:\\Users\\PC\\Documents\\Arquivos Android\\Produtividade\\app\\src\\main\\res\\mipmap-mdpi\\cadastrar.png"
+    }
+]
